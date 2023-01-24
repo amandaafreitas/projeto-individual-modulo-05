@@ -1,0 +1,23 @@
+{
+  "name": "projeto-individual-modulo-05",
+  "version": "1.0.0",
+  "description": "Projeto individual de conclusão do módulo 05 (Tecnologias server-side/back-end) da iniciativa Programadores Cariocas.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandaafreitas/projeto-individual-modulo-05.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandaafreitas/projeto-individual-modulo-05/issues"
+  },
+  "homepage": "https://github.com/amandaafreitas/projeto-individual-modulo-05#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
