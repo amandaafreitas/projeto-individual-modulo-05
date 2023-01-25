@@ -3,5 +3,5 @@ Projeto individual de conclusão do módulo 05 (Tecnologias server-side/back-end
 
 Como rodar o programa?
 
-1.**npm install** para baixar as dependências.
-2. **node index.js** para rodar o programa.
+1. **npm install** para baixar as dependências. <br/>
+2.  **node index.js** para rodar o programa.
